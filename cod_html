@@ -1,0 +1,211 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículo - Guilherme Reis</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            display: flex;
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+        }
+        /* Estilo da coluna lateral */
+        .sidebar {
+            width: 30%;
+            background-color: #2b3235;
+            color: white;
+            padding: 20px;
+        }
+        psb {
+            color: white;
+            font-size: 1em; line-height: 1.5em;
+        }
+        /* Estilo da coluna principal */
+        .main-content {
+            width: 70%;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            margin: 0;
+            text-align: left;
+            color: black;
+        }
+        .section-title {
+            background-color: #ffffff;
+            color: rgb(0, 0, 0);
+            padding: 1px;
+            font-size: 18px;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+        .sidebar .section-title {
+            background-color: #2b3235;
+            color: #ffffff;
+        }
+        p, ul {
+            margin: 5px 0;
+            color: black;
+            font-size: 1em; line-height: 1.5em;
+        }
+        .experience, .education, .skills, .contact {
+            margin-bottom: 20px;
+        }
+        .sub-section-title {
+            font-weight: bold;
+        }
+        .date {
+            color: #757575;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 5px;
+            font-size: 1em; line-height: 1.5em;
+        }
+        a{
+            color: white;
+            text-decoration: none;      
+        }
+        li{
+            font-size: 1em; line-height: 1.5em;
+
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- Coluna lateral (sidebar) -->
+    <div class="sidebar">
+        <img src="C:\Users\guilh\Pictures\foto curriculo.jpg" alt="" width="100%" height="20%">
+        <hr>
+        <div class="section-title">CONTATO</div>
+        <psb>Endereço: Rua Planalto 665 - Gravataí</psb><br>
+        <psb>Telefone: (51) 9982122110</psb><br>
+        <psb>E-mail: guilhermereis@hotmail.com</psb><br>
+        <psb>linkedin.com/in/guilherme-reis-0845b3241</psb>
+               <hr>
+
+        <div class="section-title">HARD SKILLS</div>
+            <li>Autodesk Inventor</li>
+            <li>Autocad</li>
+            <li>SolidWorks</li>
+            <li>Scrum</li>
+            <li>FEA</li>
+            <li>Python</li>
+            <li>HTML / JavaScript</li>
+            <li>Office</li>
+            
+       <hr>
+       <div class="section-title">SOFT SKILLS</div>
+            <li>Comunicação</li>
+            <li>Trabalho em equipe </li>
+            <li>Resolução de Problemas</li>
+            <li>Adaptabilidade</li>
+            <li>Liderança</li>
+            <li>Pensamento crítico</li>
+            <li>Inteligência emocional</li>
+            
+            <hr>
+       
+        <div class="section-title">IDIOMAS</div>
+        <psb>Português: Nativo</psb><br>
+        <psb>Inglês: Intermediário</psb>
+           
+         <hr>
+
+        <div class="section-title">HABILITAÇÃO</div>
+        <psb>Categoria: B</psb>
+    </div>
+
+    <!-- Coluna principal (main content) -->
+    <div class="main-content">
+        <h1>GUILHERME REIS</h1>
+        <hr>
+
+        <div class="summary">
+            <div class="section-title">RESUMO</div>
+            <p>Engenheiro Mecânico por formação e atualmente estou cursando Análise de Sistemas. Com 7 anos de experiência como projetista em diversas áreas da engenharia, desenvolvi uma visão abrangente e estratégica sobre métodos e processos de projetos. Apaixonado por tecnologia e inovação, mantenho um compromisso constante com o aprendizado e a aquisição de novas habilidades, buscando sempre me atualizar com as tendências do mercado.</p>
+            <br>
+            <hr>
+        </div>
+
+        <div class="experience">
+            <div class="section-title">EXPERIÊNCIA PROFISSIONAL</div>
+            <p class="sub-section-title">Desenhista projetista mecânico – Máquinas Condor</p>
+            <p class="date">Novembro 2023 – Atual</p>
+            <p>Projetos de equipamentos transportadores de granéis sólidos</p>
+            <p>Padronização e automatização de projetos no software Autodesk Inventor</p>
+            <p>Pesquisa e Desenvolvimento de Novos produtos (Transportador de correia enclausurado)</p>
+            <br>
+        
+            <p class="sub-section-title">Projetista – Telemont S/A</p>
+            <p class="date">Agosto 2022 – Julho 2023</p>
+            <p>Levantamento e projetos para redes de fibra ótica e FTTH.</p>
+            <p>Projetos em AutoCad e software Geoplex. </p>
+            <p>Acompanhamento de atividades em campo.</p></p>
+           <br>
+
+            <p class="sub-section-title">Projetista – Serede S/A</p>
+            <p class="date">Agosto 2020 – Agosto 2022</p>
+            <p>Levantamento e projetos para redes de fibra ótica e FTTH.</p>
+            <p>Projetos em AutoCad e software Geoplex.</p>
+            <p>Acompanhamento de atividades em campo.</p>
+            <br>
+
+            <p class="sub-section-title">Projetista Mecânico – Belsys Engenharia</p>
+            <p class="date">Maio 2018 – Agosto 2020</p>
+            <p>Projetos mecânicos de adequação de máquinas à norma NR12.</p>
+            <p>Elaboração de projetos em Software Inventor e Autocad.</p>
+            <p>Especificação de ormaçamentos</p>
+            <br>
+
+            <p class="sub-section-title">Administrativo financeiro – Portocel Saúde</p>
+            <p class="date">Janeiro 2013 – Dezembro 2017</p>
+            <p>Rotinas administrativas em geral</p>
+            <p>Implantação de sistema ERP para gestão de clientes e financeira</p>
+            <p>emissão de notas e serviçoes fiscais</p>
+            <br>
+
+            <p class="sub-section-title">Estágio Eng. Mecânica – Medeiros engenharia</p>
+            <p class="date">Julho 2012– Dezembro 2012</p>
+            <p>Projetos HVAC</p>
+            <p>Auxilio em cálculos de cargas térmicas e dimensionamento de equipamentos</p>
+            <br>
+            <hr>
+        </div>
+
+        <div class="education">
+            <div class="section-title">FORMAÇÃO ACADÊMICA</div>
+            <p class="sub-section-title">Análise de Sistemas – Faculdade Estácio de Sá</p>
+            <p class="date">Previsão de Conclusão: 10/2025</p>
+
+            <p class="sub-section-title">Engenharia Mecânica – PUCRS</p>
+            <p class="date">Conclusão: 07/2017</p>
+            <br>
+            <hr>
+        </div>
+
+        <div class="education"></div>
+            <div class="section-title">CURSOS</div>
+            <p class="sub-section-title">Eletrônica Básica – SENAI</p>
+            <p class="date">Conclusão: 04/2008 – Carga Horária: 100h</p>
+    </div>
+</div>
+
+</body>
+</html>
