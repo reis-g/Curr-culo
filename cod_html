@@ -91,7 +91,7 @@
 <div class="container">
     <!-- Coluna lateral (sidebar) -->
     <div class="sidebar">
-        <img src="C:\Users\guilh\Pictures\foto curriculo.jpg" alt="" width="100%" height="20%">
+        <img src="C:\Users\guilherme\Documents\Pessoal\foto.jpg" alt="" width="100%" height="20%">
         <hr>
         <div class="section-title">CONTATO</div>
         <psb>Endereço: Rua Planalto 665 - Gravataí</psb><br>
@@ -105,7 +105,8 @@
             <li>Autocad</li>
             <li>SolidWorks</li>
             <li>Scrum</li>
-            <li>FEA</li>
+            <li>Gestão da Qualidade</li>
+            <li>Machine Learning</li>
             <li>Python</li>
             <li>HTML / JavaScript</li>
             <li>Office</li>
@@ -139,7 +140,7 @@
 
         <div class="summary">
             <div class="section-title">RESUMO</div>
-            <p>Engenheiro Mecânico por formação e atualmente estou cursando Análise de Sistemas. Com 7 anos de experiência como projetista em diversas áreas da engenharia, desenvolvi uma visão abrangente e estratégica sobre métodos e processos de projetos. Apaixonado por tecnologia e inovação, mantenho um compromisso constante com o aprendizado e a aquisição de novas habilidades, buscando sempre me atualizar com as tendências do mercado.</p>
+            <p>Engenheiro Mecânico por formação e atualmente cursando Análise de Sistemas. Com 7 anos de experiência como projetista em diversas áreas da engenharia, desenvolvi uma visão abrangente e estratégica sobre métodos e processos de projetos. Apaixonado por tecnologia e inovação, mantenho um compromisso constante com o aprendizado e a aquisição de novas habilidades, buscando sempre me atualizar com as tendências do mercado.</p>
             <br>
             <hr>
         </div>
@@ -157,7 +158,6 @@
             <p class="date">Agosto 2022 – Julho 2023</p>
             <p>Levantamento e projetos para redes de fibra ótica e FTTH.</p>
             <p>Projetos em AutoCad e software Geoplex. </p>
-            <p>Acompanhamento de atividades em campo.</p></p>
            <br>
 
             <p class="sub-section-title">Projetista – Serede S/A</p>
@@ -170,15 +170,13 @@
             <p class="sub-section-title">Projetista Mecânico – Belsys Engenharia</p>
             <p class="date">Maio 2018 – Agosto 2020</p>
             <p>Projetos mecânicos de adequação de máquinas à norma NR12.</p>
-            <p>Elaboração de projetos em Software Inventor e Autocad.</p>
-            <p>Especificação de orçamentos</p>
+            <p>Elaboração de projetos em Software Inventor e Autocad, especificação de orçamentos</p>
             <br>
 
             <p class="sub-section-title">Administrativo financeiro – Portocel Saúde</p>
             <p class="date">Janeiro 2013 – Dezembro 2017</p>
-            <p>Rotinas administrativas em geral</p>
+            <p>Rotinas administrativas em geral, emissão de notas e serviços fiscais</p>
             <p>Implantação de sistema ERP para gestão de clientes e financeira</p>
-            <p>emissão de notas e serviçoes fiscais</p>
             <br>
 
             <p class="sub-section-title">Estágio Eng. Mecânica – Medeiros engenharia</p>
@@ -202,9 +200,20 @@
 
         <div class="education"></div>
             <div class="section-title">CURSOS</div>
+                  
+            <p class="sub-section-title">Gestão da Qualidade - Estácio</p>
+            <p class="date">Conclusão: 12/2024 – Carga Horária: 50h</p>
+
+            <p class="sub-section-title">IoT Specialist - Digital Innovation One</p>
+            <p class="date">Conclusão: 12/2024 – Carga Horária: 60h</p>
+
+            <p class="sub-section-title">Machine Learning Specialist - Digital Innovation One</p>
+            <p class="date">Conclusão: 11/2024 – Carga Horária: 92h</p>
+
             <p class="sub-section-title">Eletrônica Básica – SENAI</p>
             <p class="date">Conclusão: 04/2008 – Carga Horária: 100h</p>
     </div>
+
 </div>
 
 </body>
